@@ -1,3 +1,5 @@
-.b {
-	background-color: hct(1%, 122%, 21%);
+$qwe: 1%;
+
+.block {
+	background-color: hct($qwe, 122%, 21%);
 }
